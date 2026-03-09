@@ -1,0 +1,58 @@
+[
+  {
+    "id": "H001",
+    "name": "New Year's Day",
+    "date": "2026-01-01",
+    "isOptional": false,
+    "description": "New Year celebration"
+  },
+  {
+    "id": "H002",
+    "name": "Republic Day",
+    "date": "2026-01-26",
+    "isOptional": false,
+    "description": "National holiday"
+  },
+  {
+    "id": "H003",
+    "name": "Holi",
+    "date": "2026-03-03",
+    "isOptional": true,
+    "description": "Festival of colours"
+  },
+  {
+    "id": "H004",
+    "name": "Good Friday",
+    "date": "2026-04-03",
+    "isOptional": true,
+    "description": "Christian observance"
+  },
+  {
+    "id": "H005",
+    "name": "Independence Day",
+    "date": "2026-08-15",
+    "isOptional": false,
+    "description": "National holiday"
+  },
+  {
+    "id": "H006",
+    "name": "Gandhi Jayanti",
+    "date": "2026-10-02",
+    "isOptional": false,
+    "description": "National holiday"
+  },
+  {
+    "id": "H007",
+    "name": "Diwali",
+    "date": "2026-11-08",
+    "isOptional": true,
+    "description": "Festival of lights"
+  },
+  {
+    "id": "H008",
+    "name": "Christmas",
+    "date": "2026-12-25",
+    "isOptional": false,
+    "description": "Christmas day"
+  }
+]

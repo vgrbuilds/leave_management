@@ -1,0 +1,112 @@
+[
+  {
+    "employeeId": "1",
+    "leaveType": "ANNUAL",
+    "leaveTypeName": "Annual Leave",
+    "total": 21,
+    "used": 3,
+    "pending": 3,
+    "available": 15,
+    "carryForward": 0
+  },
+  {
+    "employeeId": "1",
+    "leaveType": "SICK",
+    "leaveTypeName": "Sick Leave",
+    "total": 12,
+    "used": 2,
+    "pending": 0,
+    "available": 10,
+    "carryForward": 0
+  },
+  {
+    "employeeId": "1",
+    "leaveType": "CASUAL",
+    "leaveTypeName": "Casual Leave",
+    "total": 6,
+    "used": 0,
+    "pending": 0,
+    "available": 6,
+    "carryForward": 0
+  },
+  {
+    "employeeId": "1",
+    "leaveType": "COMPENSATORY",
+    "leaveTypeName": "Compensatory Off",
+    "total": 2,
+    "used": 0,
+    "pending": 0,
+    "available": 2,
+    "carryForward": 0
+  },
+  {
+    "employeeId": "2",
+    "leaveType": "ANNUAL",
+    "leaveTypeName": "Annual Leave",
+    "total": 21,
+    "used": 5,
+    "pending": 0,
+    "available": 16,
+    "carryForward": 0
+  },
+  {
+    "employeeId": "2",
+    "leaveType": "SICK",
+    "leaveTypeName": "Sick Leave",
+    "total": 12,
+    "used": 0,
+    "pending": 0,
+    "available": 12,
+    "carryForward": 0
+  },
+  {
+    "employeeId": "4",
+    "leaveType": "ANNUAL",
+    "leaveTypeName": "Annual Leave",
+    "total": 21,
+    "used": 0,
+    "pending": 0,
+    "available": 21,
+    "carryForward": 0
+  },
+  {
+    "employeeId": "4",
+    "leaveType": "SICK",
+    "leaveTypeName": "Sick Leave",
+    "total": 12,
+    "used": 0,
+    "pending": 1,
+    "available": 11,
+    "carryForward": 0
+  },
+  {
+    "employeeId": "4",
+    "leaveType": "CASUAL",
+    "leaveTypeName": "Casual Leave",
+    "total": 6,
+    "used": 0,
+    "pending": 0,
+    "available": 6,
+    "carryForward": 0
+  },
+  {
+    "employeeId": "5",
+    "leaveType": "ANNUAL",
+    "leaveTypeName": "Annual Leave",
+    "total": 21,
+    "used": 4,
+    "pending": 0,
+    "available": 17,
+    "carryForward": 0
+  },
+  {
+    "employeeId": "5",
+    "leaveType": "SICK",
+    "leaveTypeName": "Sick Leave",
+    "total": 12,
+    "used": 1,
+    "pending": 0,
+    "available": 11,
+    "carryForward": 0
+  }
+]

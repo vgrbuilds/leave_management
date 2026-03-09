@@ -1,0 +1,93 @@
+[
+  {
+    "id": "LP001",
+    "leaveType": "ANNUAL",
+    "leaveTypeName": "Annual Leave",
+    "totalDaysPerYear": 21,
+    "maxConsecutiveDays": 10,
+    "carryForwardLimit": 5,
+    "minServiceDaysRequired": 90,
+    "requiresAttachment": false,
+    "requiresApproval": true,
+    "description": "Planned personal or vacation leave. Requires advance notice of at least 3 working days.",
+    "isActive": true
+  },
+  {
+    "id": "LP002",
+    "leaveType": "SICK",
+    "leaveTypeName": "Sick Leave",
+    "totalDaysPerYear": 12,
+    "maxConsecutiveDays": 5,
+    "carryForwardLimit": 0,
+    "minServiceDaysRequired": 0,
+    "requiresAttachment": true,
+    "requiresApproval": false,
+    "description": "Leave for illness or medical appointments. Medical certificate required for more than 2 consecutive days.",
+    "isActive": true
+  },
+  {
+    "id": "LP003",
+    "leaveType": "CASUAL",
+    "leaveTypeName": "Casual Leave",
+    "totalDaysPerYear": 6,
+    "maxConsecutiveDays": 2,
+    "carryForwardLimit": 0,
+    "minServiceDaysRequired": 0,
+    "requiresAttachment": false,
+    "requiresApproval": true,
+    "description": "Short unplanned leave for personal matters. Cannot be clubbed with other leave types.",
+    "isActive": true
+  },
+  {
+    "id": "LP004",
+    "leaveType": "MATERNITY",
+    "leaveTypeName": "Maternity Leave",
+    "totalDaysPerYear": 182,
+    "maxConsecutiveDays": 182,
+    "carryForwardLimit": 0,
+    "minServiceDaysRequired": 180,
+    "requiresAttachment": true,
+    "requiresApproval": false,
+    "description": "Maternity leave as per the Maternity Benefit Act. Medical certificate required.",
+    "isActive": true
+  },
+  {
+    "id": "LP005",
+    "leaveType": "PATERNITY",
+    "leaveTypeName": "Paternity Leave",
+    "totalDaysPerYear": 15,
+    "maxConsecutiveDays": 15,
+    "carryForwardLimit": 0,
+    "minServiceDaysRequired": 0,
+    "requiresAttachment": true,
+    "requiresApproval": false,
+    "description": "Paternity leave for new fathers. Must be taken within 3 months of child's birth.",
+    "isActive": true
+  },
+  {
+    "id": "LP006",
+    "leaveType": "COMPENSATORY",
+    "leaveTypeName": "Compensatory Off",
+    "totalDaysPerYear": 6,
+    "maxConsecutiveDays": 2,
+    "carryForwardLimit": 0,
+    "minServiceDaysRequired": 0,
+    "requiresAttachment": false,
+    "requiresApproval": true,
+    "description": "Compensation for working on weekends or holidays. Must be availed within 30 days.",
+    "isActive": true
+  },
+  {
+    "id": "LP007",
+    "leaveType": "UNPAID",
+    "leaveTypeName": "Unpaid Leave",
+    "totalDaysPerYear": 30,
+    "maxConsecutiveDays": 30,
+    "carryForwardLimit": 0,
+    "minServiceDaysRequired": 180,
+    "requiresAttachment": false,
+    "requiresApproval": true,
+    "description": "Unpaid leave when all paid leaves are exhausted. Approved at management discretion.",
+    "isActive": true
+  }
+]
